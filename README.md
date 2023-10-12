@@ -6,11 +6,10 @@
 Color Picker Generator is a web application built with Next.js that allows you to generate and pick random colors.
 
 ## Features
-
 - Generate random colors with a without click.
 - Copy colors to your clipboard for easy use in your projects.
-## Installation
 
+## Installation
 To run this project locally, follow these steps:
 
 - Ensure you have Node.js and npm (Node Package Manager) installed on your machine.
