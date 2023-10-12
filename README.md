@@ -1,7 +1,7 @@
 # Color Picker Generator
 
 ![Color Picker Generator](/public/picker.png)
-**DEMO LINK:** 
+**DEMO LINK:** [https://color-picker-generator.vercel.app](https://color-picker-generator.vercel.app)
 ## Project Description
 Color Picker Generator is a web application built with Next.js that allows you to generate and pick random colors.
 
@@ -41,7 +41,7 @@ yarn dev
 
 ## Technologies
 - Next.js
-- React
+- Tailwindcss
 
 ## Author
 - Bashir Mohamed Ali
